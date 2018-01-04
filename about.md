@@ -25,7 +25,7 @@ The materials cover:
 
 ### instructors
 
-<img class="col one right" src="/StataTraining/img/aaron.png">
+<img class="col one right" src="/StataTraining/img/IMG_9382_5.jpg">
 
 <br/>
 <h4> Narendra Singh</h4> is a trained self-taught data wizard. He currently workes in PMA2020 as Data Manager.He is also a runner,  photographer and Data data enthusiastic . <a href = "https://twitter.com/nnnwithnnn" target = "_blank">@nnnwithnnn</a>

@@ -29,6 +29,7 @@ The materials cover:
 <h4> Narendra Singh</h4> is a trained self-taught data wizard. He currently workes in PMA2020 as Data Manager. He is implementing his IT programmings and technical skills in Public Health Research. He is fan of programming languages, Data Structure, Automation, Database and Machine Learning.<a> E-Mail: narendraa.singhshekhawat@gmail.com </a>
 
 <br/>
+<hr/>
 
 #### acknowledgements
 - This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a>

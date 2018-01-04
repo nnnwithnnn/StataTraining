@@ -7,17 +7,15 @@ permalink: /about/
 ### background on the project
 <br>
 
+This course has been made when Narendra identified that still there is much more need to make a course for professional who are new to Stata and wants to learn STATA but due to lack of time and money they are unable to attend classes. As a result, we are coming with a short course so ay one who is newbie can understand and learn STATA.
+In this course, you will get few presentations, exercises, and resources to understand STAT and these are must for anyone who wants to learn STATA.
 
-We're a group of data practitioners, and in the past few months, we've been asked by friends and colleagues to help them learn or brush up on data analysis and visualization. As a result, we've put together this series of presentations, exercises, and resources to help understand what goes into transforming data into objective, evidence-based decisions.  
-
-The title (Fundamentals of Data Analysis and Visualization) is admittedly a bit grandiose, and there's no way that you'll be a data expert after working through these materials. We hope, though, to provide enough of a foundation to be able to learn the art and science of extracting actionable insights and developing visually appealing communications materials from varied data sets.  
+The title (Fundamentals of STATA) is admittedly that here we will make the foundation of learning STATA software only not Statics. We hope that after completing this course you are able to use STATA and also you can do your work easily.
 
 The materials cover:
 
-- an <a href = "/StataTraining/part1">introduction</a> to statistical software, coding, and reproducible analysis in Stata
-- the fundamentals of <a href = "/StataTraining/part2">data processing and management </a>
-- exploratory <a href = "/StataTraining/part3">data analysis</a>, visualization, and basic summary statistics
-- <a href = "/StataTraining/part4">data visualization</a> and data analysis communication
+- an <a href = "/StataTraining/part1">introduction</a> to statistical software
+- the fundamentals of <a href = "/StataTraining/part2">coding, and reproducible analysis in Stata</a>
 
 <br>
 <hr>

@@ -30,25 +30,6 @@ The materials cover:
 
 <br/>
 
-<img class="col one right" src="/StataTraining/img/tim.png">
-<h4>Dr. Tim Essam</h4> is an trained agricultural economist who somehow escaped the county seat of Gage County, Nebraska. He enjoys placing Easter eggs in co-worker’s presentations when offering suggestions. He also eats approximately every 45 minutes, and may have a tapeworm. He is passionate about reproducible analysis using Stata and R.  <a href = "https://twitter.com/StataRGIS" target = "_blank">@StataRGIS</a>
-
-<br/>
-<br/>
-<br/>
-
-<img class="col one right" src="/StataTraining/img/laura.png">
-<h4>Dr. Laura Hughes</h4> is a trained biophysical chemist who spent hours staring through a microscope at stains. We have no idea whether or not she can provide laundering tips on removing actual stains from clothing. She enjoys creating her own color schemes and custom plot functions in R. She is passionate about inculcating others with proper data visualization methods, color schemes, and occasional ballet moves. <a href = "https://twitter.com/flaneuseks" target = "_blank">@flaneuseks</a>
-
-<br/>
-
-<img class="col one right" src="/StataTraining/img/doug.png">
-<h4>Doug Johnson</h4> is a Senior Impact Assessment Advisor in the Lab’s Office of Evaluation and Impact Assessment.  Prior to joining the Global Development Lab, Doug was an associate at Abt Associates where he served as principal investigator on several evaluations of public health programs including two randomized controlled trials.  Doug received a Master’s in Public Administration, International Development from the Harvard Kennedy School and a Bachelor’s in Political Science from Rice University. <a href = "https://twitter.com/dougj8921" target = "_blank">@dougj8921</a>
-
-<br/>
-<hr/>
-<br/>
-
 #### acknowledgements
 - This site was built using <a href="http://jekyllrb.com" target="_blank">Jekyll</a>
   		based on <a href="https://github.com/bogoli/-folio">Folio theme</a>
@@ -63,9 +44,6 @@ The materials cover:
 <span class="contacticon center">
 	<a href="mailto:narendraa.singhshekhawat@gmail.com"><i class="fa fa-envelope-square"></i></a>
 	</span>
-
-
-
 <div class="col three caption">
 	Contact us via email.
 </div>

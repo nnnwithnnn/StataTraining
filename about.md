@@ -28,7 +28,7 @@ The materials cover:
 <img class="col one right" src="/StataTraining/img/aaron.png">
 
 <br/>
-<h4> Aaron Chafetz</h4> is a trained economist and self-taught data wizard. He currently writes visual basic scripts to process and manage HIV / AIDS data for PEPFAR. Aaron was a caddie at a country club in highschool. He is also an avid runner, biker and fledgling swimmer. <a href = "https://twitter.com/achafetz" target = "_blank">@achafetz</a>
+<h4> Narendra Singh</h4> is a trained self-taught data wizard. He currently workes in PMA2020 as Data Manager.He is also a runner,  photographer and Data data enthusiastic . <a href = "https://twitter.com/nnnwithnnn" target = "_blank">@nnnwithnnn</a>
 
 <br/>
 

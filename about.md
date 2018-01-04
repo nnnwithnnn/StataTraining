@@ -28,7 +28,7 @@ The materials cover:
 <img class="col one right" src="/StataTraining/img/IMG_9382_png.png">
 
 <br/>
-<h4> Narendra Singh</h4> is a trained self-taught data wizard. He currently workes in PMA2020 as Data Manager.He is also a runner,  photographer and Data data enthusiastic . <a href = "https://twitter.com/nnnwithnnn" target = "_blank">@nnnwithnnn</a>
+<h4> Narendra Singh</h4> is a trained self-taught data wizard. He currently workes in PMA2020 as Data Manager. He is implementing his IT programmings and technical skills in Public Health Research. He is fan of programming languages, Data Structure, Automation, Database and Machine Learning.<a> E-Mail: narendraa.singhshekhawat@gmail.com </a>
 
 <br/>
 

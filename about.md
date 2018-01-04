@@ -61,12 +61,11 @@ The materials cover:
 <br/>
 
 <span class="contacticon center">
-	<a href="mailto:tessam@usaid.gov"><i class="fa fa-envelope-square"></i></a>
-	<a href="https://github.com/GeoCenter/StataTraining/" target="_blank"><i class="fa fa-github-square"></i></a>
-</span>
+	<a href="mailto:narendraa.singhshekhawat@gmail.com"><i class="fa fa-envelope-square"></i></a>
+	</span>
 
 
 
 <div class="col three caption">
-	Contact us via email or Github.
+	Contact us via email.
 </div>
